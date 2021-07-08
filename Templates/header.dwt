@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>header</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link rel="shortcut icon" type="image/x-icon" href="CPG - favicon.ico"/>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+<link href="../_css/style.css?ver=<?php echo rand(111,999)?>" rel="stylesheet" type="text/css">
+</head>
+	
+<body>
+<div class="content">
+<div class="nav-container">
+	<div class="nav-left">
+		<a href="chargen.html">PLAY</a>
+		<a href="instructions.html">CHEAT SHEET</a>
+	</div>
+	<a href="home.html">CLASS PRESIDENT RPG</a>
+	<div class="nav-right">
+		<a href="yearbook.html">YEARBOOK</a>
+		<a href="about.html">ABOUT</a>
+	</div>
+	<img src="_img/CPG - Menu.svg" id="menu-icon">
+</div>
+
+
+
+<!-- TemplateBeginEditable name="PageContent" -->
+<main></main>
+<!-- TemplateEndEditable -->
+
+</div>
+<footer>
+<div class="footer"><p>© GAME AND WEBSITE BY CAROLINE BREWER + PETER KELLY</p></div>
+</footer>
+
+</body>
+
+</html>
